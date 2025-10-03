@@ -1,0 +1,58 @@
+Leute;los chicos;5
+Begrüßung;el saludo;5
+Name;el nombre;5
+deutsch;alemán/ana;5
+schweizerisch;suido/a;5
+österreich;autríaco/a;5
+Heimatland;el país de origen;5
+feste/r Freund/in;el/la novio/a;5
+Arbeitskollege;el/la colega;5
+Beziehung;la relación;5
+Beruf;la profesión;5
+Physiotherapeut;el/la fisioterapeuta;5
+Gestalter;el/la deseñador/a;5
+Arzt;el/la médico/a;5
+Biologe;el/la biólogo/a;5
+Fotograf;el/la fotógrafo/a;5
+Pilot;el/la piloto;5
+Autor;el/la autor/a;5
+Lehrer;el/la profesor/a;5
+Rezeptionist;el/la recepcionista;5
+Wie heißen Sie;¿Cómo se llama usted?;5
+Ich heiße/heißen;me llamo/llamarse;5
+brauchen;necesitamos;5
+Club;el club;5
+Interessieren Sie sich für...;les interesa..;5
+morgen;mañana;5
+hier;aquí;5
+in;en;5
+klar;claro;5
+sehr;mucho;5
+bis morgen;hasta mañana;5
+gute Nacht;buenas noches;5
+tschüss, auf Wiedersehen;adiós;5
+bis später;hasta luego;5
+bis dann;hasta entonces;5
+wir sehen uns;nos vemos;5
+Nachmittag;la tarde;5
+bis bald;hasta pronto;5
+Verabschiedung;la despedida;5
+sein;ser;5
+Milch;la leche;5
+Knoblauch;el ajo;5
+Sonnenblumenöl;el aceite de girasol;5
+Zutaten;los ingredientes;5
+Vorspeise;el aperitivo;5
+Salz;la sal;5
+Mittelmeer;el Mediterráneo;5
+Restaurant;el restaurante;5
+Freiwilliger;el/la voluntario/a;5
+Trainer;el/la entrenador/a;5
+Angestellte;el/la empleado/a;5
+für;para;5
+Zeitschrift;la revista;5
+Wissenschaftler;científico;4
+ich stelle dir vor...;te presento a..;5
+mein;mi;5
+aber;pero;5
+wer;quién/es;5

@@ -1,0 +1,65 @@
+willkommen in Spanien;bienvenidos a España;5
+Deutschland;Alemania;5
+Hallo!;Hola!;5
+Spanisch;el español;5
+Sprache;la lengua;5
+Straße;la calle;5
+Platz;la plaza;5
+Denkmal;el monumento;5
+Schule;la escuela;5
+Bier;la cerveza;5
+Kaffee;el café;5
+Sonne;el sol;5
+Strand;la playa;5
+Tourist/in;el/a turista;5
+Route;la ruta;5
+Stadtplan;el mapa;4
+Freund/in;el/la amigo/a;5
+Hotel;el hotel;5
+tanzen;bailar;5
+sprechen;hablar;5
+Wie geht es dir?;¿Que tal?/¿Cómo estás?;5
+Mir geht's gut.;Estoy bien.;5
+danke;gracias;5
+und;y;5
+du, dir;tú;5
+Mir geht es supergut/fantastisch;Estoy fenomenal/fantástico.;4
+Wie heißt du?;¿Cómo te llamas?;5
+ich heiße;me llamo;5
+Freut mich./Sehr erfreut;Encantado/a. / Mucho gusto;5
+Zentrum;el centro;5
+Begleiter,Kumpel;el/la compañero/a;5
+Vokabel;el vocabulario;5
+Stadt;la ciudad;5
+Park;el parque;5
+Junge;el chico;5
+Mädchen;la chica;5
+Melodie;la melodia;5
+Eis;el helado;5
+Getränk;la bebida;5
+groß;grande;5
+Salz und Pfeffer;sal y pimienta;5
+ich komme aus;soy de;5
+Woher kommst du?;¿De dónde eres?;5
+das liegt im Norden;está en el norte;5
+Süden;el sur;5
+Guten Tag;Buenos días;5
+Guten Abend;Buenas tardes.;5
+Insel;la isla;5
+Balearische Inseln;las Islas Baleares;5
+sehr gut;muy bien;5
+genial,sehr gut;genial;5
+wunderbar;de maravilla;5
+toll;estupendo;5
+hervorragend;excelente;5
+okay;regular;5
+schlecht;mal;5
+fatal;fatal;5
+mein Leben;mi vida;5
+Tür;la puerta;5
+Foto;la foto;5
+Kartoffeln;las patatas;5
+Olivenöl;el eceite de oliva;5
+Ei;el huevo;5
+Zwiebel;la cebolla;5
+Petersilie;el perejil;5

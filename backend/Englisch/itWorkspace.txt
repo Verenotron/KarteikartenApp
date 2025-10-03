@@ -1,0 +1,49 @@
+application;Anwendung  
+database;Datenbank  
+deployment;Bereitstellung  
+version control;Versionskontrolle  
+bug;Fehler  
+integration test;Integrationstest  
+continuous integration;Kontinuierliche Integration  
+pipeline;Pipeline  
+requirement;Anforderung  
+specification;Spezifikation  
+refactoring;Refactoring  
+inheritance;Vererbung  
+encapsulation;Kapselung  
+polymorphism;Polymorphismus  
+exception;Ausnahme  
+error;Fehler  
+stack trace;Stack-Trace  
+loop;Schleife  
+condition;Bedingung  
+memory;Speicher  
+performance;Leistung  
+optimization;Optimierung  
+encryption;Verschlüsselung  
+network;Netzwerk  
+request;Anfrage  
+response;Antwort  
+payload;Nutzlast  
+latency;Latenz  
+throughput;Durchsatz  
+logging;Protokollierung  
+monitoring;Überwachung  
+error handling;Fehlerbehandlung  
+scalability;Skalierbarkeit  
+availability;Verfügbarkeit  
+maintainability;Wartbarkeit  
+abstraction;Abstraktion  
+asynchronous;asynchron  
+concurrency;Nebenläufigkeit, Parallelität  
+race condition;Race Condition, Wettlaufsituation  
+mutex;Mutex, Sperre  
+semaphore;Semaphore  
+event-driven;Ereignisgesteuert  
+callback;Callback, Rückruf  
+lambda expression;Lambda-Ausdruck  
+closure;Closure, Abschluss  
+dependency;Abhängigkeit  
+dependency injection;Dependency Injection  
+inversion of control;Inversion der Steuerung  
+design pattern;Entwurfsmuster 

@@ -1,0 +1,151 @@
+truck;Lastwagen
+van;Lieferwagen
+tram;Straßenbahn
+subway;U-Bahn
+harbor;Hafen
+ship;Schiff
+ferry;Fähre
+passport;Reisepass
+visa;Visum
+luggage;Gepäck
+suitcase;Koffer
+backpack;Rucksack
+guidebook;Reiseführer
+direction;Richtung
+highway;Autobahn
+road;Straße,Weg
+lane;Fahrspur,Spur
+crosswalk;Zebrastreifen
+sign;Schild
+roundabout;Kreisverkehr
+intersection;Kreuzung
+tunnel;Tunnel
+pedestrian;Fußgänger
+cyclist;Radfahrer
+driver;Fahrer
+passenger;Passagier
+license;Führerschein
+insurance;Versicherung
+limit;Begrenzung
+fine;Strafe
+seatbelt;Sicherheitsgurt
+helmet;Helm
+fuel;Treibstoff,Benzin
+gas station;Tankstelle
+parking;Parken
+parking lot;Parkplatz
+rest area;Rastplatz
+service station;Raststätte
+hotel;Hotel
+hostel;Herberge
+reservation;Reservierung
+reception;Rezeption
+menu;Speisekarte
+bill;Rechnung
+cash;Bargeld
+credit card;Kreditkarte
+currency;Währung
+exchange;Wechsel
+border;Grenze
+customs;Zoll
+security;Sicherheit
+gate;Gate,Flugsteig
+departure;Abflug
+arrival;Ankunft
+delay;Verspätung
+cancellation;Stornierung
+schedule/timetable;Fahrplan
+platform;Bahnsteig
+track;Gleis
+ticket machine;Fahrkartenautomat
+information desk;Informationsschalter
+tourist;Tourist
+traveler;Reisender
+journey;Reise
+trip;Ausflug,Reise
+vacation;Urlaub
+holiday;Ferien
+destination;Ziel
+excursion;Ausflug
+adventure;Abenteuer
+souvenir;Souvenir,Andenken
+construction site;Baustelle  
+traffic jam;Stau  
+detour;Umleitung  
+shortcut;Abkürzung  
+direction;Wegbeschreibung,Richtung  
+straight ahead;geradeaus  
+meeting point;Treffpunkt  
+rest stop;Rastplatz,Pausenplatz  
+hitchhiking;Trampen  
+carpool;Fahrgemeinschaft  
+ride;Mitfahrt,Fahrt  
+delay;Verspätung  
+on time;pünktlich  
+rush hour;Stoßzeit  
+destination;Ziel  
+departure;Abfahrt  
+arrival;Ankunft
+travel;reisen  
+accommodation;Unterkunft  
+luggage;Gepäck  
+reservation;Reservierung  
+cancellation;Stornierung  
+itinerary;Reiseplan  
+recommendation;Empfehlung  
+activity;Aktivität  
+excursion;Ausflug  
+tourist;Tourist  
+guide;Führer/Reiseführer  
+transport;Transport  
+drive;fahren  
+toll;Maut  
+traffic jam;Verkehrsstau  
+rental car;Mietwagen  
+fair;Messe  
+event;Veranstaltung  
+celebration;Feier  
+anniversary;Jahrestag  
+surprise;Überraschung  
+congratulate;gratulieren  
+share;teilen  
+enjoy;genießen  
+relax;entspannen  
+rest;ausruhen  
+hiking;Wandern  
+custom;Gewohnheit, Brauch  
+tradition;Tradition  
+festival;Festlichkeit  
+heritage;Kulturerbe  
+monument;Denkmal  
+architecture;Architektur  
+market;Markt  
+dish;Gericht  
+recipe;Rezept  
+spice;Gewürz  
+flavor;Geschmack  
+lunch;Mittagessen  
+dinner;Abendessen  
+sunbathe;sich sonnen  
+camp;zelten  
+tent;Zelt  
+direction;Richtung  
+campground;Campingplatz  
+luggage storage;Gepäckaufbewahrung  
+amenities;Ausstattung, Einrichtungen  
+life vest;Rettungsweste  
+customs declaration;Zollanmeldung  
+travelogue;Reisebericht  
+itinerary adjustment;Reiseplanänderung  
+off the beaten path;abseits der Touristenpfade  
+guided excursion;Geführter Ausflug  
+hidden gem;Geheimtipp  
+beach resort;Strandresort  
+spa facility;Wellnessanlage  
+rejuvenation;Erholung, Verjüngung  
+carbon offset;CO2-Kompensation  
+sustainable tourism;nachhaltiger Tourismus  
+travel expense;Reisekosten  
+travel documentation;Reisedokumente  
+social etiquette;gesellschaftliche Umgangsformen  
+language proficiency;Sprachkompetenz  

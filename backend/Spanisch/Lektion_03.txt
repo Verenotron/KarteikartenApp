@@ -1,0 +1,93 @@
+so;así;0
+Jugendliche/r;el/los adolescente/s;0
+Erwachsene/r;el/la adulto/a;0
+Kind;el/la niño;1
+Baby;el bebé;2
+Frau;la mujer;0
+Mann;el hombre;2
+Muttermal;el lunar;0
+Falte;la arruga;0
+Glatze;la calva;2
+Schnurrbart;el bigote;0
+jung;joven;2
+alt (bei Personen);mayor;0
+dunkelhaarig;moreno/a;2
+blond;rubio/a;2
+rothaarig;pelirrojo/a;0
+groß;alto/a;0
+klein;bajo/a;2
+elegant;elegante;3
+dick;gordo;1
+dünn, schlank;delgado;0
+dieses Foto;esta foto;0
+Nacht, Abend;la noche;3
+vergangene/r;pasado/a;2
+schön, hübsch;bonito/a;0
+scheinen, wirken;parecer;0
+lustig, unterhaltsam;divertido;1
+wir haben gelacht;nos reímos;2
+wer (Pl.);quienes;0
+die Person;la persona;1
+kennen;conocer (conozco);0
+neu;nuevo/a;3
+seit (mit Zeitraum);desde hace;0
+seit (mit Zeitpunkt);desde;0
+Und wie ist er?;¿Y, cómo es?;0
+erzähl mir;cuéntame;2
+nett;amable;0
+und (vor i);e;3
+intelligent;inteligente;2
+hübsch;guapo/a;0
+es gibt/sind;hay;4
+verschiedene;varios/as;1
+Aussehen;el aspecto físico;1
+Charaktereigenschaften;los rasgos característicos;0
+hässlich;feo/a;2
+introvertiert;introvertido/a;2
+extrovertiert;extrovertido/a;2
+respektlos;irrespetuoso/a;1
+dumm;tonto/a;1
+unhöflich;maleducado/a;1
+chaotisch;caótico;1
+organisiert;organizado/a;2
+langweilig;aburrido/a;3
+er/sie hat geschrieben;ha escrito;0
+Buch;el libro;3
+sympathisch;simpático/a;1
+interessant;interesante;3
+Sänger/in;el/la cantante;0
+berühmt;famoso/a;2
+attraktiv;atractivo/a;1
+Schauspieler/in;el actor/la actriz;0
+ein wenig;un poco;2
+strahlend, fröhlich;sonriente;0
+schlau;listo/a;0
+zärtlich;cariñoso/a;0
+stark;fuerte;0
+mutig;valiente;0
+offen;abierto/a;0
+ernst;serio/a;2
+arbeiten;trabajar;2
+essen;comer;2
+leben;vivir;4
+machen;hacer (hago);0
+auf Englisch;en inglés;3
+wissen, können;saber (sé);0
+erscheinen;aparecer;0
+Ehemann/-frau;el/la esposo/a;1
+gemeinsam;juntos;2
+Film;la película;2
+handeln von;tratar de;0
+Liebe;el amor;2
+Eifersucht;los celos;0
+Tomate;el tomate;2
+Stange;la barra;1
+Weißbrot;el pan blanco;0
+heute;hoy;0
+mit;con;2
+wo;donde;3
+warum;por qué;4
+wollen;querer (quiero);0
+als was;de qué;2
+wann;cuándo;0
+warum;por qué;1

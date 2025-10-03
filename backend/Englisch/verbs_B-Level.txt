@@ -1,0 +1,106 @@
+accept;akzeptieren  
+achieve;erreichen  
+act;handeln  
+add;hinzufügen  
+admit;zugeben  
+advise;beraten  
+agree;sich einigen  
+allow;erlauben  
+announce;ankündigen  
+answer;antworten  
+apologize;sich entschuldigen  
+appear;erscheinen  
+apply;anwenden, sich bewerben  
+argue;streiten, argumentieren  
+arrive;ankommen  
+ask;fragen  
+attend;teilnehmen  
+avoid;vermeiden  
+balance;ausgleichen  
+be;sein  
+become;werden  
+begin;beginnen  
+believe;glauben  
+borrow;leihen  
+break;brechen  
+bring;bringen  
+build;bauen  
+buy;kaufen  
+call;rufen, anrufen  
+can;können  
+carry;tragen  
+catch;fangen  
+change;ändern  
+choose;wählen  
+clean;reinigen  
+climb;klettern  
+close;schließen  
+collect;sammeln  
+come;kommen  
+compare;vergleichen  
+complain;sich beschweren  
+complete;abschließen  
+consider;in Betracht ziehen  
+continue;fortsetzen  
+copy;kopieren  
+correct;korrigieren  
+count;zählen  
+create;erschaffen, erstellen  
+cut;schneiden  
+decide;entscheiden  
+deliver;liefern  
+describe;beschreiben  
+design;gestalten  
+develop;entwickeln  
+discuss;diskutieren  
+divide;teilen  
+do;tun, machen  
+draw;zeichnen  
+drink;trinken  
+drive;fahren  
+eat;essen  
+encourage;ermutigen  
+enjoy;genießen  
+explain;erklären  
+fail;scheitern  
+fall;fallen  
+fill;füllen  
+find;finden  
+finish;beenden  
+fit;passen  
+follow;folgen  
+forget;vergessen  
+get;bekommen  
+give;geben  
+go;gehen  
+grow;wachsen  
+guess;raten  
+happen;passieren  
+have;haben  
+hear;hören  
+help;helfen  
+hold;halten  
+hope;hoffen  
+hurt;verletzen  
+improve;verbessern  
+include;einschließen  
+increase;erhöhen  
+introduce;vorstellen  
+invite;einladen  
+join;sich anschließen  
+keep;behalten  
+know;wissen, kennen  
+learn;lernen  
+leave;verlassen  
+like;mögen  
+listen;zuhören  
+live;leben  
+look;schauen  
+lose;verlieren  
+love;lieben  
+make;machen  
+manage;managen  
+measure;messen  
+meet;treffen  
+move;bewegen, umziehen  
+need;brauchen  

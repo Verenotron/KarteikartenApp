@@ -1,0 +1,84 @@
+mi gente;meine Leute
+la familia;Familie
+la pareja;(Ehe-)paar
+el campo;Land
+el jardín;Garten
+el lugar;Ort
+la casa;Haus
+relajante;entspannend
+la mascota;Haustier
+el pueblo;Dorf
+el perro;Hund
+el gato;Katze
+siempre;immer
+los cosméticos;Kosmetika
+la Navidad;Weihnachten
+¡Feliz Navidad!;Frohe Weihnachten
+la computadora;Computer
+el ordenador;Computer
+la fiesta;Feier
+festejar;feiern
+las patatas;Kartoffeln
+la comida;Essen
+caliente;heiß
+frío/a;kalt
+el postre;Nachtisch
+el turrón;Nougat
+la canela;Zimt
+estar enamorado/a;verliebt sein
+el océano Atlántico;Atlantischer Ozean
+los dulces;Süßigkeiten
+el tinto de verano;Weinschorle
+el regalo;Geschenk
+el chocolate a la taza;Tasse heiße Schokolade
+la iglesia;Kirche
+la decoración;Dekoration
+la vela;Kerze
+pequeño/a;klein
+en el campo;auf dem Land
+el/la abuelo/a;Großvater/mutter
+Es verdad;Das stimmt
+tener (tengo);haben
+ser hijo/a único/a;Einzelkind sein
+dos;zwei
+así es;genau, stimmt
+relajado;entspannt
+el ganso;Gans
+apreciar;wertschätzen, mögen
+rico/a;lecker
+cómodo/a;gemütlich
+familiar;familiär
+la música;Musik
+ver(se);(sich) sehen
+cantar;singen
+llevar;mitbringen
+redondo/a;rund
+el padre;Vater
+el paquete de sal marina;Paket Meersalz
+la madre;Mutter
+el pimiento rojo;rote Paprika
+el/la tío/a;Onkel/Tante
+el/la hermano/a;Bruder/Schwester
+el/la cuñado/a;Schwager/Schwägerin
+el diente de ajo;Knoblauchzehe
+el chile;Chilischote
+el chorrito de balsámico;Schuss Balsamico
+la pizca de sal;Prise Salz
+el/la primo/a;Cousin/Cousine
+el/la yerno/a;Schwiegersohn/Schwiegertochter
+el caldo de pescado;Fischsuppe
+la sangría;Rotweinbowle
+gazpacho;kalte Gemüsesuppe
+el mojito;Mojito (Cocktail)
+salir;ausgehen
+preparar;vorbereiten
+mejor;besser, am besten
+el té;Tee
+¿Quién es?;Wer ist er/sie?
+¿Cómo es?;Wie ist er/sie?
+¿De dónde es?;Woher kommt er/sie?
+¿Dónde vive?;Wo lebt er/sie?
+¿Cuántos años tiene?;Wie alt ist er/sie?
+¿De qué trabaja?;Als was arbeitet er/sie?
+¿Cuándo lo/la ves?;Wann siehst du ihn/sie?
+

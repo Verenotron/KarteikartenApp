@@ -1,0 +1,57 @@
+
+factory pattern;Fabrikmuster  
+observer pattern;Beobachtermuster  
+strategy pattern;Strategiemuster  
+repository pattern;Repository-Muster  
+microservices;Mikroservices  
+service-oriented architecture;Service-orientierte Architektur  
+REST API;REST-API  
+GraphQL;GraphQL  
+webhook;Webhook  
+containerization;Containerisierung  
+Docker;Docker  
+Kubernetes;Kubernetes  
+orchestration;Orchestrierung  
+load balancing;Lastverteilung  
+scalability;Skalierbarkeit  
+high availability;Hohe Verfügbarkeit  
+fault tolerance;Fehlertoleranz  
+memoization;Memoisierung  
+latency optimization;Latenzoptimierung  
+profiling;Profiling  
+benchmarking;Benchmarking, Leistung eines Systems wird mit einem anderem System verglichen
+refactoring;Refactoring, Code umschreiben ohne die äußerliche Funktionalität zu ändern
+technical debt;Technische Schuld  
+versioning;Versionierung  
+semantic versioning;Semantische Versionierung  
+continuous deployment;Kontinuierliche Bereitstellung  
+rollback;Rollback, Rücksetzung  
+hotfix;Hotfix, schnell bereitgestelltes Software-Update
+patch;Patch, Software-Update das Fehler behebt ohne die Gesamte Software neu zu veröffentlichen
+feature flag;Feature-Flag, Programmiertechnik mit der bestimmte Funktionen ein oder ausgeschaltet werden können, ohne den code neu zu deployen
+code coverage;Codeabdeckung, vie viel Prozent des Codes durch tests ausgeführt werden.
+unit testing;Unit-Test, eintelne Komponente wird getestet
+integration testing;Integrationstest, Test ob verschiedene omponenten zusammen korrekt funktionierten
+end-to-end testing;End-to-End-Test, gesamte Anwendung wird getestet
+mocking;Mocking  
+stubbing;Stubbing, Test bei der Platzhalter funktionen vordefinierte Antworten enthalten
+regression testing;Regressionstest, ob bereits funktionierende Funktionen nach Änderungen immer noch korrekt arbeiten
+static analysis;Statische Analyse  
+linting;Linting, automatische Überprüfung des Codes auf Syntaxfehler
+profiling tool;Profiling-Tool, misst Leistung eines Programms also CPU-Auslastung, Speicherverbrauch, Laufzeit...
+exception handling;Fehlerbehandlung  
+assertion;Assertion, Überprüfung, die sicherstellt, dass eine Bedingung wahr ist
+contract;Vertrag, API-Vertrag  
+dependency graph;Abhängigkeitsgraph, graphische Darstellung, wie Module voneinander anhängen
+event sourcing;Event Sourcing, Architekturprinzip, bei dem alle Änderungen des Systemzustandes als Ereignisse gespeichert werden, statt nur den aktuellen Zustand
+CQRS;CQRS (Command Query Responsibility Segregation), Lesen und Schreiben von Darten werden getrennt
+message queue;Nachrichtenwarteschlange  
+stream processing;Stream-Verarbeitung  
+batch processing;Batch-Verarbeitung, Batch ist eine Gruppe von Aufgaben oder Daten, die zusammen in einem Durchgang verarbeitet werden
+data pipeline;Datenpipeline  
+data modeling;Datenmodellierung  
+serialization;Serialisierung, Objekte in ein übertragbares Format umwandeln
+deserialization;Deserialisierung  
+encryption;Verschlüsselung  
+decryption;Entschlüsselung  
+vulnerability;Schwachstelle  
