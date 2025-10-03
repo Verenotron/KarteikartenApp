@@ -1,7 +1,7 @@
 so;así;0
 Jugendliche/r;el/los adolescente/s;0
 Erwachsene/r;el/la adulto/a;0
-Kind;el/la niño;1
+Kind;el/la niño;2
 Baby;el bebé;2
 Frau;la mujer;0
 Mann;el hombre;2
@@ -27,7 +27,7 @@ scheinen, wirken;parecer;0
 lustig, unterhaltsam;divertido;1
 wir haben gelacht;nos reímos;2
 wer (Pl.);quienes;0
-die Person;la persona;1
+die Person;la persona;2
 kennen;conocer (conozco);0
 neu;nuevo/a;3
 seit (mit Zeitraum);desde hace;0
@@ -43,8 +43,8 @@ verschiedene;varios/as;1
 Aussehen;el aspecto físico;1
 Charaktereigenschaften;los rasgos característicos;0
 hässlich;feo/a;2
-introvertiert;introvertido/a;2
-extrovertiert;extrovertido/a;2
+introvertiert;introvertido/a;3
+extrovertiert;extrovertido/a;3
 respektlos;irrespetuoso/a;1
 dumm;tonto/a;1
 unhöflich;maleducado/a;1

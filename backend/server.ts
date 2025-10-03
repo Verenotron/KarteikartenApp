@@ -1,4 +1,6 @@
-const express = require("express");
+import * as express from "express";
+import { Request, Response } from "express";
+// const express = require("express");
 const cors = require("cors");
 const axios = require("axios"); // optional, for fetching data
 const fs = require("fs");
@@ -13,21 +15,21 @@ app.listen(PORT, () => {
   console.log(`Server läuft auf Port ${PORT}`);
 });
 
-app.post("/api/speichern", async (req, res) => {
+app.post("/api/speichern", async (req: Request, res: Response) => {
     const { lines } = req.body;
     if(!lines || ! Array.isArray(lines)){
         return res.status(400).json({error: "Keine Daten übergeben"});
     }
 
     const content = lines.join("\n");
-    fs.writeFile(PFAD, content, (err) => {
+    fs.writeFile(PFAD, content, (err: NodeJS.ErrnoException | null) => {
         if (err) return res.status(500).json({ error: "Speichern fehlgeschlagen" });
         res.json({ message: "Datei erfolgreich gespeichert" });
     })
     res.status(200);
 });
 
-app.get("/api/holeDaten", async (req, res) => {
+app.get("/api/holeDaten", async (req: Request, res: Response) => {
   try {
     const data = fs.readFileSync(PFAD, "utf-8");
     const lines = data.split("\n");

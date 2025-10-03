@@ -67,3 +67,9 @@ export default defineConfig([
   },
 ])
 ```
+express typen installieren mit:
+npm install --save-dev @types/express
+
+zum starten erst in js kompillieren:
+npx tsc server.ts
+node server.js
